@@ -116,6 +116,10 @@ Excel Concepts applied:
 ## DATA SOURCING
 
    
-The table details can be found in the uploaded files section of the repository
+The table details can be found in the uploaded files section of the repository called **Sales Data task.csv**.
 
+
+## DATA ANALYSIS
+
+ 
 
