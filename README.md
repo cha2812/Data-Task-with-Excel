@@ -48,7 +48,7 @@ Then we look for any duplicates in terms of staff members and we discover that w
 
 ![](names_starting_with_"e"_and_lowest_&_highest_salary.png)
 
-Conditional Formatting was used to highlight with a yellow fill, employees whose names start with an E. We then discover that we have three (3) employees whose first names begin with the letter E, Emma Miller, Emeka Dickson and Eugenie Bouchard. Conditional formatting was then used to find the lowest and and also discover the lowest and highest salary earned by the employees at the company. The lowest salary is $5,000 and the highest earner at the company earns $25,000.
+Conditional Formatting was used to highlight with a yellow fill, employees whose names start with an E. We then discover that we have three (3) employees whose first names begin with the letter E, Emma Miller, Emeka Dickson and Eugenie Bouchard. Conditional formatting was then used to find the lowest and also discover the lowest and highest salary earned by the employees at the company. The lowest salary is $5,000 and the highest earner at the company earns $25,000.
 
 
 ## SKills/ Concepts Demonstrated
