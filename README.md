@@ -39,6 +39,11 @@ Created a table with the following headings
 
 First, we discover the employees who are only employed as freelancers and earn above $10,000 by the company. We discover that there are 4 employees who are freelancers and earn above $10,000.
 
+![](duplicates.png)
+
+Then we look for any duplicates in terms of staff members and we discover that we do not have any duplicates even though we have staff whose first name is another employee's last name and another where the first name is the last name of another employee.
+
+
 
 
 
