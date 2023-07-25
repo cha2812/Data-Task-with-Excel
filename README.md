@@ -65,6 +65,7 @@ The Employee data is a very straightforward and easy-to-understand dataset.
 - There are three(3) employees with a name that begins with "e".
 - The lowest salary is $5,000 and is earned by employees who work in the communication department on a part-time basis.
 - The highest salary is $25,000 and is earned by employees who work in Sales and IT on both Part-time and Contract terms.
+---
 
 
 
@@ -77,6 +78,14 @@ The Employee data is a very straightforward and easy-to-understand dataset.
 
 
 
+
+
+
+
+
+
+
+---
 ## TASK 2 - SALES DATA
 ---
 
