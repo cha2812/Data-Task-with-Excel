@@ -43,7 +43,8 @@ First, We add the filter feature to the headers of the table and then we filter 
 
 ![](duplicates.png)
 
-Then we look for any duplicates in terms of staff members and we discover that we do not have any duplicates even though we have staff whose first name is another employee's last name and another where the first name is the last name of another employee.
+Conditional Formatting was used to search for duplicates. We look for any duplicates in terms of staff members and we discover that we do not have any duplicates even though we have staff whose first name is another employee's last name and another where the last name is the first name of another employee.
+
 
 
 ![](names_starting_with_"e"_and_lowest_&_highest_salary.png)
@@ -53,7 +54,8 @@ Conditional Formatting was used to highlight with a yellow fill, employees whose
 
 ## SKills/ Concepts Demonstrated
 The following Excel features were used to solve the problem.
-Data Filters, Conditional Formatting, 
+- Data Filters,
+- Conditional Formatting.
 
 
 
