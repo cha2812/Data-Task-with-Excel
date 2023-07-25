@@ -18,7 +18,7 @@ Excel Concepts applied:
 
 ## PROBLEM STATEMENT
 ---
-![]
+![](main_table.png)
 
 1.	Show the employees that are Freelancers and earn above $10,000.
 2.	Checking for duplicates in terms of Employees
@@ -35,6 +35,9 @@ Created a table with the following headings
 5. Job type
 
 ## DATA ANALYSIS
+![](freelancers_who_earn_above_$10,000.png)
+
+First, we discover the employees who are only employed as freelancers and earn above $10,000 by the company. We discover that there are 4 employees who are freelancers and earn above $10,000.
 
 
 
