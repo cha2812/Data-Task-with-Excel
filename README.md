@@ -78,6 +78,17 @@ The Employee data is a very straightforward and easy-to-understand dataset.
 
 
 ## TASK 2 - SALES DATA
+---
+
+
+## INTRODUCTION
+
+This is data providing insights and explanations about sales data for a company that sells six (6) products in various countries of the world as well as segments that consume the products in Excel.
+This is Data containing information on sales of products for a company. We are provided with the Segment, Country, Product, Discount Band, Unit Sold, Manufacturing Price, Sale Price, Gross Sales, Discounts, Sales, Profit, and Month.
+
+**_Disclaimer_** : All datasets and reports do not represent any company, institution or country, but just a dummy dataset to demonstrate the capabilities of Excel.
+
+
 
 
 
