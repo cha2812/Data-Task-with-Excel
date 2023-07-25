@@ -47,7 +47,7 @@ Conditional Formatting was used to search for duplicates. We look for any duplic
 
 
 ---
-![]()
+![](names_starting.png)
 
 Conditional Formatting was used to highlight with a yellow fill, employees whose names start with an E. We then discover that we have three (3) employees whose first names begin with the letter E, Emma Miller, Emeka Dickson and Eugenie Bouchard. Conditional formatting was then used to find the lowest and also discover the lowest and highest salary earned by the employees at the company. The lowest salary is $5,000 and the highest earner at the company earns $25,000.
 
@@ -63,7 +63,7 @@ The Employee data is a very straightforward and easy-to-understand dataset.
 - Kezie Group has four(4) employees who work as freelancers and earn above $10,000.
 - There are no duplicates of employees that work at the company.
 - There are three(3) employees with a name that begins with "e".
-- The lowest salary is $5,000 and is earned by employees who work in the communication department.
+- The lowest salary is $5,000 and is earned by employees who work in the communication department on a part-time basis.
 - The highest salary is $25,000 and is earned by employees who work in Sales and IT on both Part-time and Contract terms.
 
 
