@@ -46,7 +46,7 @@ First, We add the filter feature to the headers of the table and then we filter 
 Conditional Formatting was used to search for duplicates. We look for any duplicates in terms of staff members and we discover that we do not have any duplicates even though we have staff whose first name is another employee's last name and another where the last name is the first name of another employee.
 
 
-
+---
 ![](names_starting_with_e_and_lowest_&_highest_salary.png)
 
 Conditional Formatting was used to highlight with a yellow fill, employees whose names start with an E. We then discover that we have three (3) employees whose first names begin with the letter E, Emma Miller, Emeka Dickson and Eugenie Bouchard. Conditional formatting was then used to find the lowest and also discover the lowest and highest salary earned by the employees at the company. The lowest salary is $5,000 and the highest earner at the company earns $25,000.
