@@ -1,4 +1,4 @@
-## Employee Data
+## Task 1 - Employee Data
 ![](company_logo.jpg)
 ---
 
@@ -39,9 +39,17 @@ Created a table with the following headings
 
 First, we discover the employees who are only employed as freelancers and earn above $10,000 by the company. We discover that there are 4 employees who are freelancers and earn above $10,000.
 
+
 ![](duplicates.png)
 
 Then we look for any duplicates in terms of staff members and we discover that we do not have any duplicates even though we have staff whose first name is another employee's last name and another where the first name is the last name of another employee.
+
+![](names_starting_with_"e"_and_lowest_&_highest_salary.png)
+
+We then discover that we have three (3) employees whose first names begin with the letter e, Emma Miller, Emeka Dickson and Eugenie Bouchard and also discover the lowest and highest salary earned by the employees at the company. The lowest salary is $5,000 and the highest earner at the company earns $25,000.
+
+
+
 
 
 
