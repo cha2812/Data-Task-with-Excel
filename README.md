@@ -37,7 +37,7 @@ Created a table with the following headings
 ## DATA ANALYSIS
 ![](freelancers_who_earn_above_$10,000.png)
 
-First, we discover the employees who are only employed as freelancers and earn above $10,000 by the company. We discover that there are 4 employees who are freelancers and earn above $10,000.
+First, We add the filter feature to the headers of the table and then we filter the job type section to select only freelancers, once you get only the freelancers and then filter the salary section to be greater than $10,000 for we discover the employees who are only employed as freelancers and earn above $10,000 by the company. We discover that there are 4 employees who are freelancers and earn above $10,000.
 
 
 
