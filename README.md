@@ -131,3 +131,5 @@ Fifthly, for the highest profit generated, we use the MAX() function to discover
 ---
 A column was created to indicate the sales that were low and sales that were high because they were above the average.
 The table details can be found in the uploaded files section of the repository called **Sales Data task solved**.
+
+
