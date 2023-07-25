@@ -7,6 +7,8 @@
 This is data providing insights and explanations about employee data for a company called **Kezie Group** in Excel.
 This is Data containing the information of employees in the company. We are provided with the Employee ID, Full Name, Department they work for, the salary they earn as well as their Job-status with the company.
 
+**_Disclaimer_** : All datasets and reports do not represent any company, institution or country, but just a dummy dataset to demonstrate the capabilities of Excel.
+
 Excel Concepts applied:
 
 •	Data Filtering
@@ -15,12 +17,13 @@ Excel Concepts applied:
 
 
 ## PROBLEM STATEMENT
+---
+![]
 
-•	Show the employees that are Freelancers and earn above $10,000.
+1.	Show the employees that are Freelancers and earn above $10,000.
+2.	Checking for duplicates in terms of Employees
+3.	Employees whose names begin with the letter “e” and find the lowest and highest salary in the company.
 
-•	Checking for duplicates in terms of Employees
-
-•	Employees whose names begin with the letter “e” and find the lowest and highest salary in the company.
 
 ## DATA SOURCING
 
