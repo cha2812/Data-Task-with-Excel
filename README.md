@@ -1,9 +1,10 @@
 ## Employee Data
-
+![](company_logo.jpg)
+---
 
 ## INTRODUCTION
 
-Providing insights and explanations about employee data in Excel
+This is data providing insights and explanations about employee data for a company called **Kezie Group** in Excel.
 This is Data containing the information of employees in the company. We are provided with the Employee ID, Full Name, Department they work for, the salary they earn as well as their Job-status with the company.
 
 Excel Concepts applied:
@@ -13,7 +14,7 @@ Excel Concepts applied:
 •	Conditional Formatting
 
 
-PROBLEM STATEMENT
+## PROBLEM STATEMENT
 
 •	Show the employees that are Freelancers and earn above $10,000.
 
@@ -21,7 +22,7 @@ PROBLEM STATEMENT
 
 •	Employees whose names begin with the letter “e” and find the lowest and highest salary in the company.
 
-DATA SOURCING
+## DATA SOURCING
 
 Created a table with the following headings
 1. Employee ID
@@ -30,7 +31,7 @@ Created a table with the following headings
 4. Salary
 5. Job type
 
-DATA ANALYSIS
+## DATA ANALYSIS
 
 
 
