@@ -40,14 +40,14 @@ Created a table with the following headings
 First, We add the filter feature to the headers of the table and then we filter the job type section to select only freelancers, once you get only the freelancers and then filter the salary section to be greater than $10,000 for we discover the employees who are only employed as freelancers and earn above $10,000 by the company. We discover that there are 4 employees who are freelancers and earn above $10,000.
 
 
-
+---
 ![](duplicates.png)
 
 Conditional Formatting was used to search for duplicates. We look for any duplicates in terms of staff members and we discover that we do not have any duplicates even though we have staff whose first name is another employee's last name and another where the last name is the first name of another employee.
 
 
 ---
-![](names_starting.png)
+![]()
 
 Conditional Formatting was used to highlight with a yellow fill, employees whose names start with an E. We then discover that we have three (3) employees whose first names begin with the letter E, Emma Miller, Emeka Dickson and Eugenie Bouchard. Conditional formatting was then used to find the lowest and also discover the lowest and highest salary earned by the employees at the company. The lowest salary is $5,000 and the highest earner at the company earns $25,000.
 
@@ -55,8 +55,16 @@ Conditional Formatting was used to highlight with a yellow fill, employees whose
 ## SKills/ Concepts Demonstrated
 The following Excel features were used to solve the problem.
 - Data Filters,
-- Conditional Formatting.
+- Conditional Formatting
 
+
+## Conclusion
+The Employee data is a very straightforward and easy-to-understand dataset.
+- Kezie Group has four(4) employees who work as freelancers and earn above $10,000.
+- There are no duplicates of employees that work at the company.
+- There are three(3) employees with a name that begins with "e".
+- The lowest salary is $5,000 and is earned by employees who work in the communication department.
+- The highest salary is $25,000 and is earned by employees who work in Sales and IT on both Part-time and Contract terms.
 
 
 
