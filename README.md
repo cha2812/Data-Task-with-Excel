@@ -1,7 +1,7 @@
 ## Employee Data
 
 
-INTRODUCTION
+## INTRODUCTION
 
 Providing insights and explanations about employee data in Excel
 This is Data containing the information of employees in the company. We are provided with the Employee ID, Full Name, Department they work for, the salary they earn as well as their Job-status with the company.
