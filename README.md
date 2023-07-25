@@ -75,3 +75,10 @@ The Employee data is a very straightforward and easy-to-understand dataset.
 
 
 
+
+
+## TASK 2 - SALES DATA
+
+
+
+
