@@ -115,11 +115,19 @@ Excel Concepts applied:
 
 ## DATA SOURCING
 
-   
 The table details can be found in the uploaded files section of the repository called **Sales Data task.csv**.
 
 
 ## DATA ANALYSIS
+![](sales_data_first_solution.png) 
 
- 
+First, to find the total revenue and profit generated, we use the SUM() function to calculate that.
+Secondly, to find the average revenue for every order, we use the AVERAGE() function to calculate that and to find the total units sold for every order, we use the SUM() function.
+Thirdly, for the total discount given, we use the SUM() function to sum all of the values under the discounts column.
+Fourthly, for the total number of sales recorded, we use the SUM() function to sum up all the values under the sales column.
+Fifthly, for the highest profit generated, we use the MAX() function to discover the biggest and largest profit the company made.
 
+
+---
+A column was created to indicate the sales that were low and sales that were high because they were above the average.
+The table details can be found in the uploaded files section of the repository called **Sales Data task solved**.
