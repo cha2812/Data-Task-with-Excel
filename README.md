@@ -133,3 +133,12 @@ A column was created to indicate the sales that were low and sales that were hig
 The table details can be found in the uploaded files section of the repository called **Sales Data task solved**.
 
 
+## SKILLS / CONCEPTS DEMONSTRATED
+The following Excel features were used to solve the problems
+- SUM
+- AVERAGE
+- MAX
+
+
+
+
