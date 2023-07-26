@@ -213,7 +213,7 @@ The following Excel features were used to solve the problems
 
 ## CONCLUSION
 The sales data was quite big so it required a lot of careful analysis. 
-The number of sales made in the Government and Midmarket segments is 400; 300 for government segment and 100 for the midmarket segment.
+The number of sales made in the Government and Midmarket segments is 400; 300 for the government segment and 100 for the midmarket segment.
 The country with the highest unit of goods sold is the United States of America, the segment with the highest unit of goods sold is the Government and the month the highest unit of goods were sold is April.
 
 
