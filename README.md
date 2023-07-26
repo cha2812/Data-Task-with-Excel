@@ -211,8 +211,10 @@ The following Excel features were used to solve the problems
 
 
 ## CONCLUSION
-The sales data was quite big so it required a lot of careful analysis. The country with the highest unit of goods sold.
----
+The sales data was quite big so it required a lot of careful analysis. 
+The number of sales made iin the Government and Midmarket
+The country with the highest unit of goods sold is the United States of America, the segment with the highest unit of goods sold is the Government and the month the highest unit of goods were sold is April.
+
 
 
 
