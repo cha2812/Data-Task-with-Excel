@@ -121,7 +121,7 @@ The table details can be found in the uploaded files section of the repository c
 ## DATA ANALYSIS
 ![](sales_data1.png)
 
-First, to find the total revenue and profit generated, we use the SUM() function to calculate that.
+First, we use the SUM() function to calculate the total revenue and profit generated.
 Secondly, to find the average revenue for every order, we use the AVERAGE() function to calculate that and to find the total units sold for every order, we use the SUM() function.
 Thirdly, for the total discount given, we use the SUM() function to sum all of the values under the discounts column.
 Fourthly, for the total number of sales recorded, we use the SUM() function to sum up all the values under the sales column.
@@ -142,5 +142,82 @@ The following Excel features were used to solve the problems
 
 ## CONCLUSION
 The sales data was quite big so it required a lot of careful analysis. The amount of low sales is much greater than the high sales.
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## TASK 3
+---
+
+
+## INTRODUCTION
+
+This is data providing insights and explanations about sales data for a company that sells six (6) products in various countries of the world as well as segments that consume the products in Excel.
+This is Data containing information on sales of products for a company. We are provided with the Segment, Country, Product, Discount Band, Unit Sold, Manufacturing Price, Sale Price, Gross Sales, Discounts, Sales, Profit, and Month.
+
+**_Disclaimer_** : All datasets and reports do not represent any company, institution or country, but just a dummy dataset to demonstrate the capabilities of Excel.
+
+Excel Concepts applied:
+- AVERAGEIF
+- COUNTIF
+- SUM
+- SUMIFS
+- MAX
+- XLOOKUP
+
+
+## PROBLEM STATEMENT
+
+1. Find the average revenue generated from the sale of 'Paseo'.
+2. Find the number of sales made in the Government and Midmarket segments.
+3. Total revenue generated from the sales of "Montana" in Canada.
+4. What country, segment and month did they sell the highest unit of goods?
+5. The total profit made in the month of December.
+
+
+## DATA SOURCING
+
+The table details can be found in the uploaded files section of the repository called **Sales Data task solved.csv**.
+
+
+## DATA ANALYSIS
+![](sales_data2.png)
+
+First, we use the AVERAGEIF(C2:C701, "Paseo", J2:J701) function to calculate the average revenue 'Paseo' generates.
+Secondly, to figure out the number of sales made in the government and midmarket segments, we use the COUNTIF() function to find out the sales made in the government segment, the sales made in the midmarket segment and then use the SUM() function to add both figures to give us the number of sales made in the government and midmarket segment together.
+Thirdly, we use the SUMIFS(H2:H701,B2:B701,"Canada",C2:C701,"Montana") function to find out the total revenue generated from the sales of 'Montana' in Canada.
+Fourthly, we, first of all, calculate the highest unit of goods sold by using the MAX(E2:E701) function, then use the highest unit of goods sold as your lookup value. You make use of XLOOKUP() function to find out the country, segment and month the highest unit of goods sold was made.
+Fifthly, to discover the total profit that was made in the month of December, we use the SUMIFS(K2:K701,L2:L701,"December") function.
+
+
+## SKILLS / CONCEPTS DEMONSTRATED
+The following Excel features were used to solve the problems
+- SUMIFS
+- AVERAGEIF
+- MAX
+- XLOOKUP
+- COUNTIF
+
+
+## CONCLUSION
+The sales data was quite big so it required a lot of careful analysis. The country with the highest unit of goods sold.
+---
+
+
+
+
+
+
 
 
