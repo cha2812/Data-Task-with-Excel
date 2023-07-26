@@ -119,7 +119,7 @@ The table details can be found in the uploaded files section of the repository c
 
 
 ## DATA ANALYSIS
-![](sales_data_first_solution.png) 
+![](sales_data_first_solutions.png) 
 
 First, to find the total revenue and profit generated, we use the SUM() function to calculate that.
 Secondly, to find the average revenue for every order, we use the AVERAGE() function to calculate that and to find the total units sold for every order, we use the SUM() function.
