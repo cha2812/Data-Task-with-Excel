@@ -142,21 +142,22 @@ The following Excel features were used to solve the problems
 
 ## CONCLUSION
 The sales data was quite big so it required a lot of careful analysis. The amount of low sales is much greater than the high sales.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## TASK 3
 ---
 
